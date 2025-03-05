@@ -73,6 +73,13 @@ The SQL-extracted data is visualized in Power BI, providing:
 => Smaller pizzas may sell in high quantities but generate lower revenue.
 => The lowest-performing pizzas can be targeted for promotions or removal.
 
+#Dashboard
+
+![Screenshot 2025-03-05 135455](https://github.com/user-attachments/assets/e22fa440-1856-460d-8512-98dddc3ee729)
+![Screenshot 2025-03-05 135510](https://github.com/user-attachments/assets/abb926e4-062b-4f3e-9830-c212771e1059)
+
+
+
 🔗 Future Improvements
 => Incorporate customer demographics for targeted insights.
 => Implement predictive analytics for future sales trends.
